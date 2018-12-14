@@ -5,8 +5,8 @@
 
 ## Prerequisite
 This has been tested on _Ubuntu 18.04_, you will need to install the following packages (assuming python is already installed):
-- python-serial
-- python-wxgtk3.0
+- _python-serial_
+- _python-wxgtk3.0_
 
 For more instructions see the [installation instructions](http://htmlpreview.github.com/?https://github.com/ComputingFroggy/pyobd/blob/master/doc/install.html).
 
