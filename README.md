@@ -4,7 +4,7 @@
 **pyOBD** (aka pyOBD-II or pyOBD2) is an OBD-II compliant car diagnostic tool. It is designed to interface with low-cost ELM 32x OBD-II diagnostic interfaces such as ELM-USB. It will basically allow you to talk to your car's ECU,... display fault codes, display measured values, read status tests, etc. All cars made since 1996 (in the US) or 2001 (in the EU) must be OBD-II compliant, i.e. they should work with _pyOBD_. 
 
 ## Prerequisite
-This has been tested on _Ubuntu 18.04_, you will need to install the following packages (assuming python is already installed):
+This has been tested on _Ubuntu 18.04_, you will need to install the following packages (assuming _python_ is already installed):
 - _python-serial_
 - _python-wxgtk3.0_
 
