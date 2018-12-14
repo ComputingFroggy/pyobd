@@ -8,7 +8,7 @@ This has been tested on _Ubuntu 18.04_, you will need to install the following p
 - python-serial
 - python-wxgtk3.0
 
-For more instructions see the [installation instructions](doc/install.html).
+For more instructions see the [installation instructions](http://htmlpreview.github.com/?doc/install.html).
 
 ## Fork
 This project is a fork from the pyobd software written by [Donour Sizemore](http://www.cs.unm.edu/~donour/), then maintained and improved by [SECONS Ltd](http://www.obd-ii.biz/contact). 
